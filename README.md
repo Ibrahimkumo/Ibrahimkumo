@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me via email: Ibrahim Hussain in gmail.com
+- 📫 How to reach me via email: ibrahimmHussaini@gmail.com
 
 <!---
 Ibrahimkumo/Ibrahimkumo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
